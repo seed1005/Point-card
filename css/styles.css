@@ -1,0 +1,50 @@
+#Banner{
+  width: 100%;
+  height: 400px;
+  background: url('../images/banner/banner1.jpg') no-repeat;
+  background-position: center top;
+}
+.fa-envelope-o{
+  color:rgb(224, 18, 105);
+}
+header{
+  overflow: hidden;
+  background-color: #1c8fe2;
+}
+#Logo{
+  width: 268px;
+  height: 209px;
+  background: url('../images/1.png') no-repeat;
+  float: left;
+}
+nav>ol>li{
+  width: 120px;
+  height: 40px;
+  float: left;
+  font-size: 20px;
+  font-family: "微軟正黑體";
+}
+#tee{
+  max-width: 1000px;
+  margin: auto;
+}
+nav{
+  float: right;
+  margin-top: 152px;
+}
+#Content{
+  overflow: hidden;
+  padding: 20px
+}
+footer{
+  overflow: hidden;
+  background-color: #FF88C2;
+}
+.left{
+width: 480px;
+float: left;
+}
+.right{
+  width: 480px;
+  float: left;
+}
